@@ -1,2 +1,7 @@
 # Folder
 .vs/
+data_collection/
+
+# File
+Test.ipynb
+.cache.sqlite
