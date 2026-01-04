@@ -2,7 +2,13 @@
 .vs/
 data_collection/
 .DS_Store
+*/.ipynb_checkpoints/*
+__pycache__/
 
 # File
 Test.ipynb
 .cache.sqlite
+.ipynb_checkpoints
+data/
+*.csv
+*.xlsx
