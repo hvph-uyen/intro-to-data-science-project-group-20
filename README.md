@@ -106,19 +106,19 @@ Notebook: `04_modeling.ipynb`
 ```
   ├── data/ 
   |   ├── raw/
-  |   |    └── weather_raw.csv # Dữ liệu thô
+  |   |    └── weather_raw.csv       # Dữ liệu thô
   |   └── processed/
   |   |    ├── weather_processed.csv # Dữ liệu đã qua xử lý
-  |   |    ├── test_data.csv # Tập test
-  |   |    └── train_data.csv # Tập train
-  ├── 01_data_collection.ipynb # Quá trình thu thập dữ liệu
-  ├── 02_data_preprocessing.ipynb # Qua trình tiền xử lý
+  |   |    ├── test_data.csv         # Tập test
+  |   |    └── train_data.csv        # Tập train
+  ├── 01_data_collection.ipynb
+  ├── 02_data_preprocessing.ipynb
   ├── 03_data_analysis/
-  |   ├── 03_Q1_data_analysis.ipynb # Các yếu tố thời tiết (nhiệt độ, độ ẩm, gió, áp suất…) có tác động và mức độ tương quan như thế nào đến lượng mưa
-  |   ├── 03_Q2_data_analysis.ipynb # Cường độ, thời gian kéo dài và tần suất của các trận mưa có đặc điểm gì?
-  |   ├── 03_Q3_data_analysis.ipynb # Sự thay đổi của lượng mưa và các yếu tố thời tiết theo thời gian cho thấy quy luật nào về mưa ở Huế?
-  |   └── 03_Q4_data_analysis.ipynb # Trong và trước các trận mưa lịch sử tháng 10–11/2025 vừa rồi ở Huế, những biến khí tượng nào thể hiện sự thay đổi rõ rệt nhất, có gì khác biệt so với các trận còn lại không?
-  └── 04_modeling.ipynb # Xây dựng mô hình học máy (Machine Learning) để dự đoán khả năng mưa hoặc lượng mưa dựa trên các đặc trưng đã xử lý.
+  |   ├── 03_Q1_data_analysis.ipynb
+  |   ├── 03_Q2_data_analysis.ipynb
+  |   ├── 03_Q3_data_analysis.ipynb
+  |   └── 03_Q4_data_analysis.ipynb
+  └── 04_modeling.ipynb
 ```
 
 ---
